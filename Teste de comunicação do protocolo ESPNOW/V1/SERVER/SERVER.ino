@@ -1,5 +1,5 @@
 //Programa: ESP-NOW com ESP8266 NodeMCU - Receptor
-//Autor: Arduino e Cia
+//Autor: GregMaster
 
 #include <ESP8266WiFi.h>
 #include <espnow.h>
