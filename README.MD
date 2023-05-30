@@ -28,9 +28,12 @@ A pasta **Servidor2 e Cliente2** executa uma rotina de comunicação 1 para N.
 
 
 ## Referências
-- <https://www.arduinoecia.com.br/esp-now-comunicacao-direta-entre-modulos-esp8266-e-esp32/>
-- <https://randomnerdtutorials.com/esp-now-many-to-one-esp32/>
-- <https://blog.eletrogate.com/economizando-energia-sleep-modes-no-esp8266/>
+- <https://www.arduinoecia.com.br/esp-now-comunicacao-direta-entre-modulos-esp8266-e-esp32/>  
+- <https://randomnerdtutorials.com/esp-now-many-to-one-esp32/>  
+- <https://blog.eletrogate.com/economizando-energia-sleep-modes-no-esp8266/>  
+- <https://blog.eletrogate.com/economizando-energia-sleep-modes-no-esp8266/>  
+- [SleepMode - Light Sleep](https://www.espressif.com/sites/default/files/9b-esp8266-low_power_solutions_en_0.pdf)  
+
 
 
 
